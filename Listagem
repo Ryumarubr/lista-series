@@ -1,0 +1,18 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://miro.medium.com/fit/c/256/256/2*BhrZ_AYHkY4fzG24welEnQ.jpeg" pltv-name="" pltv-description="descrição" pltv-cover="https://miro.medium.com/fit/c/256/256/2*BhrZ_AYHkY4fzG24welEnQ.jpeg" pltv-author="Ryumaruweb"
+#EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/fit/c/256/256/2*BhrZ_AYHkY4fzG24welEnQ.jpeg" group-title="The Witcher Dublado",The Witcher Dublado Episodio 1
+http://tcloud2.azureedge.net/RCServer07/ondemand/THEWTCHRT01EP01.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/fit/c/256/256/2*BhrZ_AYHkY4fzG24welEnQ.jpeg" group-title="The Witcher Dublado",The Witcher Dublado Episodio 2
+http://tcloud2.azureedge.net/RCServer07/ondemand/THEWTCHRT01EP02.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/fit/c/256/256/2*BhrZ_AYHkY4fzG24welEnQ.jpeg" group-title="The Witcher Dublado",The Witcher Dublado Episodio 3
+http://tcloud2.azureedge.net/RCServer07/ondemand/THEWTCHRT01EP03.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/fit/c/256/256/2*BhrZ_AYHkY4fzG24welEnQ.jpeg" group-title="The Witcher Dublado",The Witcher Dublado Episodio 4
+http://tcloud2.azureedge.net/RCServer07/ondemand/THEWTCHRT01EP04.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/fit/c/256/256/2*BhrZ_AYHkY4fzG24welEnQ.jpeg" group-title="The Witcher Dublado",The Witcher Dublado Episodio 5
+http://tcloud2.azureedge.net/RCServer07/ondemand/THEWTCHRT01EP05.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/fit/c/256/256/2*BhrZ_AYHkY4fzG24welEnQ.jpeg" group-title="The Witcher Dublado",The Witcher Dublado Episodio 6
+http://tcloud2.azureedge.net/RCServer07/ondemand/THEWTCHRT01EP06.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/fit/c/256/256/2*BhrZ_AYHkY4fzG24welEnQ.jpeg" group-title="The Witcher Dublado",The Witcher Dublado Episodio 7
+http://tcloud2.azureedge.net/RCServer07/ondemand/THEWTCHRT01EP07.mp4?attachment=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/fit/c/256/256/2*BhrZ_AYHkY4fzG24welEnQ.jpeg" group-title="The Witcher Dublado",The Witcher Dublado Episodio 8
+http://tcloud2.azureedge.net/RCServer07/ondemand/THEWTCHRT01EP08.mp4?attachment=true
